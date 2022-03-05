@@ -1,1 +1,2 @@
-VimCrypt~03!u!ŽâËP­`þÖ)G]¿YMµJç’ ‘uÑ=/eq¿UýÉM¥]Ú<
+#!/bin/bash
+chown betty hello
